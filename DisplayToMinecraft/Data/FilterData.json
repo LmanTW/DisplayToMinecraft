@@ -1,0 +1,32 @@
+[
+  "log",
+  "leaves",
+  "planks",
+
+  "block.",
+  "bricks.",
+  "bamboo_block.",
+  "copper.",
+  "concrete.",
+  "ore.",
+  "shulker_box",
+  "terracotta",
+  "wools",
+
+  "amethyst_block",
+  "ancient_debris_side",
+  "barrel_side",
+  "basalt_side",
+  "dried_kelp_side",
+  "dripstone_block",
+  "bedrock",
+  "hay_block_side",
+  "honey_block_side",
+  "honeycomb_block",
+  "ice",
+  "jukebox_side",
+  "lodestone_side",
+  "melon_side",
+  
+  "front."
+]
