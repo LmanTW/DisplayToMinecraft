@@ -6,7 +6,7 @@ module.exports = (color, color2) => {
   if (color.r > value) mainColor = { name: 'r', value: color.r }
   if (color.g > value) mainColor = { name: 'g', value: color.g }
   if (color.b > value) mainColor = { name: 'b', value: color.b }
-  if (Math.abs(color[mainColor.name]-color2[mainColor.name]) < 50) value-=50
+  if (mainColor.name !== undefined && Math.abs(color[mainColor.name]-color2[mainColor.name]) < 50) value-=50
 
   return value
 }
